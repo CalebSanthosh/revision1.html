@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("https://www.wallpapers13.com/wp-content/uploads/2016/01/Background-beautiful-nature-lake-blue-sky-with-white-clouds-Hd-Wallpaper-1366x768.jpg");
+    height:100px;
+    background-size: bottom;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf55m5nYf6C6VnSv96WtmGpmuJ-3DsuTwlGWWbHc6x&s");
+    background-size: cover;
+}
